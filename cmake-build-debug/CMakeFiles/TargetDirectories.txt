@@ -1,0 +1,3 @@
+/home/dubing/project/kinect_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dubing/project/kinect_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dubing/project/kinect_test/cmake-build-debug/CMakeFiles/kinect_test.dir
